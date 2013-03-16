@@ -1,0 +1,23 @@
+{
+  "name": "node-proxy-mock-middleware",
+  "version": "0.0.1",
+  "description": "A mocking middle ware for api data via node http proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phun-ky/node-proxy-mock-middleware.git"
+  },
+  "keywords": [
+    "mock",
+    "middleware",
+    "node-http-proxy",
+    "api"
+  ],
+  "author": "Alexander Vassbotn Røyne-Helgesen",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "c13177e3a173446988018a3d588b3b1bf33d30ae"
+}
